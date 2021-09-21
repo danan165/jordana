@@ -1,7 +1,7 @@
-Static Website Example
+Source Code for Jordana Website
 ----------------------
 
-To be used with Cloud Academy labs.
+See the website here: [Jordana](http://jordana.s3-website.us-east-2.amazonaws.com/)
 
 
 License
