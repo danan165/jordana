@@ -1,3 +1,3 @@
 sudo apt-get update
-sudo apt install nodejs npm
+sudo apt-get install nodejs npm nginx
 npm install node-static
