@@ -1,7 +1,9 @@
 Source Code for Jordana Website
 ----------------------
 
-See the website here soon: [Music by Jordana](https://musicbyjordana.com/)
+See the website here: [Music by Jordana](https://musicbyjordana.com/)
+
+This site is hosted on AWS using the following services: Amazon S3, Amazon CloudFront, Route 53, and Amazon Certificate Manager.
 
 
 License
